@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  portal:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-23T11:46:19.1934077+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1bb70229d326f0c31ccf21453609af3fe05a988e0f14f51f231058eea9ca2825
+    name: portal
+    type: application
+    urls:
+    - https://saikumarreddy46.github.io/helmcharts/portal-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-23T11:46:19.191408+05:30"
